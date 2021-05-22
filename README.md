@@ -4,4 +4,4 @@ Project 01 - [Expanding Cards](https://atom1k-ex.github.io/50Projects-Javascript
 
 Project 02 - [Progress bar for Multi Level form ](https://atom1k-ex.github.io/50Projects-Javascript/multilevel_form/)
 
-Project 03 - [Rotating Navigation Bar ](https://atom1k-ex.github.io/50Projects-Javascript/rotating-navigation/)
+Project 03 - [Rotating Navigation Bar ](https://atom1k-ex.github.io/50Projects-Javascript/rotatenav/)
