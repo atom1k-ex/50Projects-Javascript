@@ -8,4 +8,4 @@ Project 03 - [Rotating Navigation Bar ](https://atom1k-ex.github.io/50Projects-J
 
 Project 04 - [Expanding Search ](https://atom1k-ex.github.io/50Projects-Javascript/expandingsearch/)
 
-Project 05 - [Expanding Search ](https://atom1k-ex.github.io/50Projects-Javascript/blurryload/)
+Project 05 - [Blury Background Loading](https://atom1k-ex.github.io/50Projects-Javascript/blurryload/)
